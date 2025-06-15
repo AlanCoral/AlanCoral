@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alan
+# 👋 ¡Hola! Soy Alan Coral
 Soy desarrollador de software apasionado por la tecnología, la automatización y el aprendizaje continuo.
 
 ## 🚀 Habilidades
